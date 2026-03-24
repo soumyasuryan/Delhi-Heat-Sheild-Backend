@@ -30,4 +30,8 @@ JWTManager(app)
 app.register_blueprint(auth_bp)
 
 if __name__ == "__main__":
-  app.run(debug=True)
+  app.run(
+    host="0.0.0.0",  # ⬅ accept connections from anywhere
+    port=int(os.environ.get("PORT", 5000)),  # ⬅ use Render's port
+    debug=False  # ⬅ always False in production!
+  )
