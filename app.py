@@ -21,7 +21,7 @@ app.config["JWT_COOKIE_SAMESITE"] = "Lax"         # ⬅ Lax for localhost (Stric
 # CORS config
 CORS(app,
   resources={r"/api/*": {
-    "origins": "http://localhost:8080",
+    "origins": "http://localhost:8080","https://delhi-heat-sheild.vercel.app"
     "supports_credentials": True,
   }}
 )
