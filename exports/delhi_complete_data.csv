@@ -1,0 +1,133 @@
+date,locality,district,latitude,longitude,lst_celsius,air_temp_celsius,urban_heat_intensity,dominant_roof_material,green_cover_pct,population_density_per_km2,locality_type,data_source
+2026-03-20,Bijwasan,South West Delhi,28.521,77.042,55.2,33.0,22.2,Metal Sheet,3.2,19665,industrial,simulated
+2026-03-20,Alipur,North West Delhi,28.81,77.135,54.9,32.8,22.1,Asbestos Sheet,5.2,9165,industrial,simulated
+2026-03-20,Bawana,North West Delhi,28.793,77.04,53.8,33.0,20.8,Metal Sheet,2.7,23542,industrial,simulated
+2026-03-20,Brahmpuri,Shahdara,28.69,77.282,53.4,30.3,23.1,Tarpaulin/Plastic,3.1,168933,informal,simulated
+2026-03-20,Najafgarh,South West Delhi,28.609,76.98,53.3,32.1,21.2,Metal Sheet,4.2,15938,industrial,simulated
+2026-03-20,Gokulpuri,Shahdara,28.7,77.3,53.2,29.7,23.5,Asbestos Sheet,4.8,179657,informal,simulated
+2026-03-20,Kanjhawala,North West Delhi,28.783,77.02,52.7,30.7,22.0,Asbestos Sheet,1.5,12680,industrial,simulated
+2026-03-20,Madanpur Khadar,South East Delhi,28.517,77.301,52.7,29.9,22.8,Asbestos Sheet,5.4,164222,informal,simulated
+2026-03-20,Jahangirpuri,North Delhi,28.736,77.168,52.6,30.8,21.8,Metal Sheet,3.3,167906,informal,simulated
+2026-03-20,Sangam Vihar,South Delhi,28.507,77.227,52.6,30.8,21.8,Metal Sheet,3.1,158317,informal,simulated
+2026-03-20,Narela,North West Delhi,28.854,77.093,52.5,32.1,20.4,Asbestos Sheet,4.7,19285,industrial,simulated
+2026-03-20,Pochanpur,South West Delhi,28.54,77.035,52.5,31.1,21.4,Metal Sheet,4.4,16827,industrial,simulated
+2026-03-20,Okhla,South East Delhi,28.5355,77.273,52.5,31.3,21.2,Asbestos Sheet,2.3,7565,industrial,simulated
+2026-03-20,Indira Gandhi Airport,South West Delhi,28.5562,77.1,52.4,33.3,19.1,Asbestos Sheet,2.1,17854,industrial,simulated
+2026-03-20,Kapashera,South West Delhi,28.517,77.07,52.4,31.4,21.0,Metal Sheet,1.3,22320,industrial,simulated
+2026-03-20,Karawal Nagar,North East Delhi,28.745,77.305,52.2,30.7,21.5,Asbestos Sheet,4.9,169153,informal,simulated
+2026-03-20,Tughlakabad,South Delhi,28.497,77.262,52.2,30.2,22.0,Tarpaulin/Plastic,5.5,148201,informal,simulated
+2026-03-20,Deoli,South Delhi,28.5,77.213,52.1,30.8,21.3,Asbestos Sheet,7.1,99651,informal,simulated
+2026-03-20,Badarpur,South Delhi,28.503,77.295,52.1,29.9,22.2,Metal Sheet,5.4,195483,informal,simulated
+2026-03-20,Shaheen Bagh,South East Delhi,28.5555,77.298,52.1,33.1,19.0,Asbestos Sheet,6.3,161385,informal,simulated
+2026-03-20,Abul Fazal Enclave,South East Delhi,28.546,77.295,52.1,30.6,21.5,Tarpaulin/Plastic,7.8,102698,informal,simulated
+2026-03-20,Dashrathpuri,South West Delhi,28.6,77.068,52.0,32.0,20.0,Asbestos Sheet,3.4,198276,informal,simulated
+2026-03-20,Bindapur,South West Delhi,28.61,77.046,52.0,29.1,22.9,Tarpaulin/Plastic,3.4,169189,informal,simulated
+2026-03-20,Ambedkar Nagar,South Delhi,28.515,77.235,51.8,30.9,20.9,Metal Sheet,5.2,91658,informal,simulated
+2026-03-20,Seelampur,Shahdara,28.678,77.272,51.6,31.2,20.4,Tarpaulin/Plastic,3.5,184743,informal,simulated
+2026-03-20,Bhajanpura,North East Delhi,28.71,77.265,51.5,29.4,22.1,RCC Concrete,9.6,119221,dense_urban,simulated
+2026-03-20,Tekhand,South East Delhi,28.51,77.31,51.4,30.6,20.8,Asbestos Sheet,5.2,190358,informal,simulated
+2026-03-20,Shastri Park,Shahdara,28.671,77.262,51.2,28.9,22.3,Metal Sheet,4.7,89913,dense_urban,simulated
+2026-03-20,Mustafabad,North East Delhi,28.714,77.3,51.0,32.8,18.2,RCC Concrete,4.4,169167,informal,simulated
+2026-03-20,Mangolpuri,North West Delhi,28.713,77.094,51.0,31.6,19.4,Tarpaulin/Plastic,3.8,112790,informal,simulated
+2026-03-20,Shadipur,Central Delhi,28.654,77.162,50.8,30.6,20.2,RCC Concrete,8.4,95673,dense_urban,simulated
+2026-03-20,Munirka,South Delhi,28.556,77.176,50.8,29.4,21.4,RCC Concrete,9.5,100256,dense_urban,simulated
+2026-03-20,Nand Nagri,Shahdara,28.705,77.315,50.7,31.6,19.1,Tarpaulin/Plastic,6.1,189704,informal,simulated
+2026-03-20,Moti Nagar,West Delhi,28.663,77.14,50.6,30.9,19.7,RCC Concrete,10.6,88858,dense_urban,simulated
+2026-03-20,Paharganj,Central Delhi,28.644,77.2135,50.5,30.2,20.3,Asbestos Sheet,4.7,126661,dense_urban,simulated
+2026-03-20,Dabri,South West Delhi,28.61,77.075,50.5,32.5,18.0,Tarpaulin/Plastic,5.4,186780,informal,simulated
+2026-03-20,Shahdara,Shahdara,28.6694,77.2887,50.3,30.7,19.6,RCC Concrete,9.6,116994,dense_urban,simulated
+2026-03-20,Maujpur,North East Delhi,28.7,77.285,50.2,30.3,19.9,Metal Sheet,10.2,111679,dense_urban,simulated
+2026-03-20,Chandni Chowk,Central Delhi,28.6506,77.2303,50.1,31.3,18.8,Asbestos Sheet,9.2,103786,dense_urban,simulated
+2026-03-20,Sultanpuri,North West Delhi,28.723,77.072,50.0,31.4,18.6,RCC Concrete,5.3,129244,informal,simulated
+2026-03-20,Kalindi Kunj,South East Delhi,28.538,77.308,50.0,29.9,20.1,Tarpaulin/Plastic,3.5,178362,informal,simulated
+2026-03-20,Subhash Nagar,West Delhi,28.652,77.132,49.9,31.4,18.5,RCC Concrete,6.1,60517,dense_urban,simulated
+2026-03-20,Hari Nagar,West Delhi,28.633,77.114,49.9,30.5,19.4,RCC Concrete,11.8,105401,dense_urban,simulated
+2026-03-20,Yamuna Vihar,North East Delhi,28.705,77.275,49.7,28.6,21.1,RCC Concrete,8.4,110018,dense_urban,simulated
+2026-03-20,Jaitpur,South East Delhi,28.5,77.302,49.6,30.4,19.2,Tarpaulin/Plastic,2.4,125727,informal,simulated
+2026-03-20,Uttam Nagar,West Delhi,28.617,77.058,49.5,28.7,20.8,Asbestos Sheet,9.5,123553,dense_urban,simulated
+2026-03-20,Geeta Colony,East Delhi,28.659,77.268,49.4,30.8,18.6,Metal Sheet,11.4,115928,dense_urban,simulated
+2026-03-20,Dwarka Mor,South West Delhi,28.604,77.058,49.4,29.0,20.4,RCC Concrete,6.1,87276,dense_urban,simulated
+2026-03-20,Shakarpur,East Delhi,28.635,77.287,49.3,30.0,19.3,Tarpaulin/Plastic,9.3,127431,dense_urban,simulated
+2026-03-20,Farsh Bazar,Shahdara,28.662,77.275,49.3,31.7,17.6,RCC Concrete,4.8,73923,dense_urban,simulated
+2026-03-20,Jhandewalan,Central Delhi,28.6495,77.202,48.7,29.3,19.4,Asbestos Sheet,7.2,127551,dense_urban,simulated
+2026-03-20,Kailash Colony,South Delhi,28.553,77.243,48.7,28.3,20.4,Metal Sheet,20.9,61846,planned,simulated
+2026-03-20,Anand Parbat,Central Delhi,28.662,77.183,48.3,30.7,17.6,RCC Concrete,7.4,87780,dense_urban,simulated
+2026-03-20,Jhilmil Colony,East Delhi,28.668,77.304,48.2,30.5,17.7,Tarpaulin/Plastic,4.3,107789,dense_urban,simulated
+2026-03-20,Jagatpuri,North East Delhi,28.695,77.275,48.2,30.2,18.0,RCC Concrete,7.7,88549,dense_urban,simulated
+2026-03-20,Khajuri Khas,North East Delhi,28.723,77.285,48.1,30.9,17.2,Asbestos Sheet,4.8,147009,informal,simulated
+2026-03-20,Khanpur,South Delhi,28.51,77.201,48.0,30.1,17.9,Tarpaulin/Plastic,6.2,90564,informal,simulated
+2026-03-20,Welcome Colony,Shahdara,28.6778,77.298,47.9,31.1,16.8,Asbestos Sheet,7.7,78807,dense_urban,simulated
+2026-03-20,Gandhi Nagar,East Delhi,28.663,77.274,47.8,31.4,16.4,Asbestos Sheet,8.6,80947,dense_urban,simulated
+2026-03-20,Ghonda,North East Delhi,28.72,77.26,47.8,30.0,17.8,RCC Concrete,8.4,117497,dense_urban,simulated
+2026-03-20,Babarpur,North East Delhi,28.692,77.29,47.8,30.8,17.0,Metal Sheet,6.6,108782,dense_urban,simulated
+2026-03-20,Janakpuri,West Delhi,28.628,77.083,47.6,27.7,19.9,Clay Tiles,12.7,49844,planned,simulated
+2026-03-20,Patparganj,East Delhi,28.622,77.295,47.5,26.4,21.1,RCC Concrete,20.9,26315,planned,simulated
+2026-03-20,Rajouri Garden,West Delhi,28.648,77.123,47.5,28.7,18.8,RCC Concrete,14.9,48347,planned,simulated
+2026-03-20,Mayur Vihar Phase 2,East Delhi,28.615,77.305,47.2,27.9,19.3,RCC Concrete,16.0,39996,planned,simulated
+2026-03-20,Sagarpur,South West Delhi,28.623,77.09,47.0,29.0,18.0,RCC Concrete,4.6,97896,dense_urban,simulated
+2026-03-20,Burari,North Delhi,28.745,77.21,46.9,28.5,18.4,Metal Sheet,17.1,41187,planned,simulated
+2026-03-20,Anand Vihar,East Delhi,28.647,77.316,46.8,28.9,17.9,RCC Concrete,20.8,26576,planned,simulated
+2026-03-20,Paschim Vihar,North West Delhi,28.674,77.096,46.7,27.0,19.7,RCC Concrete,18.2,51973,planned,simulated
+2026-03-20,Preet Vihar,East Delhi,28.6425,77.2905,46.3,27.6,18.7,RCC Concrete,16.1,30165,planned,simulated
+2026-03-20,Daryaganj,Central Delhi,28.6408,77.2362,46.3,29.8,16.5,Tarpaulin/Plastic,10.8,119256,dense_urban,simulated
+2026-03-20,Punjabi Bagh,North West Delhi,28.674,77.131,46.2,28.2,18.0,RCC Concrete,11.2,40597,planned,simulated
+2026-03-20,Tilak Nagar,West Delhi,28.644,77.102,46.2,29.9,16.3,Asbestos Sheet,5.7,110406,dense_urban,simulated
+2026-03-20,Krishna Nagar,East Delhi,28.654,77.283,46.1,27.5,18.6,RCC Concrete,15.5,63928,planned,simulated
+2026-03-20,Lajpat Nagar,South Delhi,28.5677,77.241,46.0,27.4,18.6,RCC Concrete,10.2,26554,planned,simulated
+2026-03-20,Moti Bagh,New Delhi,28.585,77.184,45.9,27.3,18.6,Metal Sheet,19.3,33895,planned,simulated
+2026-03-20,RK Puram,New Delhi,28.564,77.179,45.8,27.6,18.2,Metal Sheet,18.6,28987,planned,simulated
+2026-03-20,Mayur Vihar Phase 3,East Delhi,28.625,77.315,45.7,27.5,18.2,RCC Concrete,15.4,37487,planned,simulated
+2026-03-20,Timarpur,North Delhi,28.705,77.215,45.6,26.0,19.6,Clay Tiles,21.5,55470,planned,simulated
+2026-03-20,Kirti Nagar,Central Delhi,28.66,77.154,45.5,27.0,18.5,Metal Sheet,15.9,62022,planned,simulated
+2026-03-20,Vikaspuri,West Delhi,28.641,77.07,45.5,27.2,18.3,RCC Concrete,19.9,55486,planned,simulated
+2026-03-20,Mukherjee Nagar,North Delhi,28.705,77.208,45.2,28.1,17.1,Metal Sheet,14.2,45766,planned,simulated
+2026-03-20,Vivek Vihar,East Delhi,28.6703,77.3152,45.0,27.4,17.6,RCC Concrete,12.2,48634,planned,simulated
+2026-03-20,Ashok Vihar,North West Delhi,28.697,77.178,45.0,26.1,18.9,Clay Tiles,20.2,52324,planned,simulated
+2026-03-20,Jasola,South East Delhi,28.541,77.288,45.0,27.3,17.7,Clay Tiles,10.2,28360,planned,simulated
+2026-03-20,Karkardooma,East Delhi,28.658,77.301,44.7,27.5,17.2,RCC Concrete,17.8,46534,planned,simulated
+2026-03-20,Mahipalpur,South West Delhi,28.562,77.118,44.7,26.3,18.4,RCC Concrete,18.5,14818,institutional,simulated
+2026-03-20,Adarsh Nagar,North Delhi,28.723,77.178,44.6,26.8,17.8,RCC Concrete,13.7,49255,planned,simulated
+2026-03-20,Rajinder Nagar,Central Delhi,28.6411,77.183,44.5,27.6,16.9,RCC Concrete,17.7,40352,planned,simulated
+2026-03-20,Azadpur,North Delhi,28.715,77.187,44.4,25.3,19.1,Clay Tiles,20.9,57036,planned,simulated
+2026-03-20,Connaught Place,New Delhi,28.6315,77.2167,44.4,27.1,17.3,Clay Tiles,21.5,18697,institutional,simulated
+2026-03-20,Sukhdev Vihar,South East Delhi,28.549,77.28,44.4,26.0,18.4,RCC Concrete,20.7,49715,planned,simulated
+2026-03-20,Mayur Vihar Phase 1,East Delhi,28.608,77.295,44.3,27.1,17.2,Metal Sheet,11.9,31155,planned,simulated
+2026-03-20,Rohini Sector 1-5,North West Delhi,28.745,77.115,44.1,27.4,16.7,RCC Concrete,18.2,26266,planned,simulated
+2026-03-20,Nehru Place,South Delhi,28.5488,77.251,44.1,28.0,16.1,Metal Sheet,10.1,53588,planned,simulated
+2026-03-20,Karol Bagh,Central Delhi,28.6519,77.1909,44.0,27.9,16.1,Clay Tiles,21.5,46594,planned,simulated
+2026-03-20,Patel Nagar,Central Delhi,28.656,77.172,44.0,27.6,16.4,RCC Concrete,19.2,50249,planned,simulated
+2026-03-20,Sarita Vihar,South East Delhi,28.527,77.289,43.9,26.3,17.6,Clay Tiles,18.6,48618,planned,simulated
+2026-03-20,Dilshad Garden,East Delhi,28.682,77.317,43.8,28.9,14.9,Metal Sheet,19.5,28219,planned,simulated
+2026-03-20,Netaji Nagar,New Delhi,28.574,77.191,43.6,28.1,15.5,Metal Sheet,12.1,60795,planned,simulated
+2026-03-20,Malviya Nagar,South Delhi,28.533,77.207,43.6,26.3,17.3,RCC Concrete,26.5,20812,affluent,simulated
+2026-03-20,Sarai Pipal Thala,North Delhi,28.728,77.193,43.3,28.1,15.2,RCC Concrete,20.2,15946,institutional,simulated
+2026-03-20,INA Colony,New Delhi,28.5776,77.2105,43.2,26.8,16.4,RCC Concrete,14.0,26039,planned,simulated
+2026-03-20,IP Extension,East Delhi,28.625,77.306,42.9,27.4,15.5,RCC Concrete,13.7,30351,planned,simulated
+2026-03-20,Netaji Subhash Place,North West Delhi,28.698,77.148,42.9,28.0,14.9,RCC Concrete,10.6,53767,planned,simulated
+2026-03-20,Sarojini Nagar,New Delhi,28.5765,77.1971,42.8,27.7,15.1,RCC Concrete,14.6,45661,planned,simulated
+2026-03-20,Tagore Garden,West Delhi,28.654,77.112,42.7,27.7,15.0,RCC Concrete,10.7,50416,planned,simulated
+2026-03-20,Palam,South West Delhi,28.584,77.073,42.5,27.6,14.9,RCC Concrete,13.2,19504,institutional,simulated
+2026-03-20,Green Park,South Delhi,28.559,77.207,42.4,27.8,14.6,Clay Tiles,38.8,12682,affluent,simulated
+2026-03-20,Jamia Nagar,South East Delhi,28.559,77.288,42.2,27.8,14.4,RCC Concrete,16.1,54528,planned,simulated
+2026-03-20,Nauroji Nagar,New Delhi,28.568,77.198,42.1,28.0,14.1,Metal Sheet,20.2,61097,planned,simulated
+2026-03-20,Laxmi Nagar,East Delhi,28.6317,77.2774,42.0,27.8,14.2,RCC Concrete,12.4,53710,planned,simulated
+2026-03-20,Hauz Khas,South Delhi,28.5494,77.2001,41.6,25.4,16.2,RCC Concrete,32.7,9370,affluent,simulated
+2026-03-20,Mehrauli,South Delhi,28.522,77.187,41.5,26.7,14.8,RCC Concrete,18.5,23368,institutional,simulated
+2026-03-20,Lodi Colony,New Delhi,28.5918,77.2275,41.4,26.6,14.8,RCC Concrete,32.9,20672,affluent,simulated
+2026-03-20,Saket,South Delhi,28.5245,77.2066,41.4,26.9,14.5,RCC Concrete,21.8,15903,affluent,simulated
+2026-03-20,Civil Lines,North Delhi,28.6843,77.2219,41.0,26.4,14.6,Metal Sheet,20.6,19278,affluent,simulated
+2026-03-20,Model Town,North Delhi,28.713,77.196,41.0,25.6,15.4,RCC Concrete,29.5,9016,affluent,simulated
+2026-03-20,Pitampura,North West Delhi,28.702,77.13,41.0,28.7,12.3,RCC Concrete,15.6,55514,planned,simulated
+2026-03-20,Rohini Sector 15-17,North West Delhi,28.765,77.08,40.3,26.1,14.2,RCC Concrete,32.6,14307,affluent,simulated
+2026-03-20,New Friends Colony,South East Delhi,28.562,77.277,40.2,25.7,14.5,Clay Tiles,24.1,16925,affluent,simulated
+2026-03-20,Chanakyapuri,New Delhi,28.5997,77.1886,40.0,26.5,13.5,RCC Concrete,33.5,11366,affluent,simulated
+2026-03-20,Safdarjung Enclave,New Delhi,28.568,77.205,40.0,25.2,14.8,RCC Concrete,30.3,11424,affluent,simulated
+2026-03-20,Dwarka Sector 1-10,West Delhi,28.595,77.046,39.8,26.0,13.8,RCC Concrete,21.2,8285,affluent,simulated
+2026-03-20,Vasant Vihar,South Delhi,28.557,77.166,39.8,26.6,13.2,Glass/Polycarbonate,29.5,21425,affluent,simulated
+2026-03-20,Vasant Kunj,South Delhi,28.521,77.157,39.2,26.9,12.3,Green Roof,32.1,8692,affluent,simulated
+2026-03-20,Dwarka Sector 11-23,West Delhi,28.572,77.03,39.1,25.3,13.8,Clay Tiles,22.6,14450,affluent,simulated
+2026-03-20,Rohini Sector 6-11,North West Delhi,28.755,77.095,38.8,25.2,13.6,RCC Concrete,24.0,13507,affluent,simulated
+2026-03-20,Defence Colony,South Delhi,28.573,77.231,38.7,26.3,12.4,RCC Concrete,28.2,15396,affluent,simulated
+2026-03-20,Greater Kailash 2,South Delhi,28.536,77.241,38.6,26.6,12.0,Clay Tiles,37.4,18663,affluent,simulated
+2026-03-20,Greater Kailash 1,South Delhi,28.5427,77.234,38.0,25.8,12.2,RCC Concrete,29.6,13314,affluent,simulated
+2026-03-20,Shalimar Bagh,North Delhi,28.72,77.155,37.4,25.1,12.3,Green Roof,32.5,15939,affluent,simulated
