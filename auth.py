@@ -12,12 +12,13 @@ supabase = create_client(os.getenv("SUPABASE_URL"), os.getenv("SUPABASE_KEY"))
 
 # 👇 helper function to set cookie — reuse in both login and signup
 def set_auth_cookie(response, token):
+    is_prod = os.getenv("VERCEL") == "1"
     response.set_cookie(
         "access_token_cookie",  # ⬅ flask-jwt-extended expects this exact name
         token,
         httponly=True,
-        secure=False,           # ⬅ False for localhost
-        samesite="Lax"          # ⬅ Lax for localhost
+        secure=is_prod,           
+        samesite="None" if is_prod else "Lax" 
     )
     return response
 

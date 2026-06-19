@@ -10,18 +10,20 @@ load_dotenv()
 
 app = Flask(__name__)
 
+is_prod = os.getenv("VERCEL") == "1"
+
 # JWT config
 app.config["JWT_SECRET_KEY"] = os.getenv("JWT_SECRET_KEY")
 app.config["JWT_ACCESS_TOKEN_EXPIRES"] = timedelta(hours=1)
-app.config["JWT_TOKEN_LOCATION"] = ["cookies"]    # ⬅ this was missing!
+app.config["JWT_TOKEN_LOCATION"] = ["cookies"]
 app.config["JWT_COOKIE_HTTPONLY"] = True
-app.config["JWT_COOKIE_SECURE"] = False           # ⬅ False for localhost (no HTTPS locally)
-app.config["JWT_COOKIE_SAMESITE"] = "Lax"         # ⬅ Lax for localhost (Strict blocks localhost)
+app.config["JWT_COOKIE_SECURE"] = is_prod           # True for production cross-domain
+app.config["JWT_COOKIE_SAMESITE"] = "None" if is_prod else "Lax" # None required for cross-domain
 
 # CORS config
 CORS(app,
   resources={r"/api/*": {
-    "origins":[ "http://localhost:8080","https://delhi-heat-sheild.vercel.app",],
+    "origins":[ "http://localhost:8080", "http://localhost:5173", "https://delhi-heat-sheild.vercel.app" ],
     "supports_credentials": True,
   }}
 )
